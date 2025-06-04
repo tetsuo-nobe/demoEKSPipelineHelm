@@ -2,8 +2,8 @@
 # Declare variables to be passed into your templates folder.
 
 # Release-wide Values
-replicas: 2
-version: '2'
+replicas: 1
+version: '1'
 
 # Service Specific Values
 hello:
